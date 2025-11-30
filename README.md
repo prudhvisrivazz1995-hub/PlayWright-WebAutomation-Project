@@ -47,7 +47,6 @@ playwright-bdd-js/
 
 Install dependencies:
 
-```bash
 npm install
 
 Run all BDD tests:
